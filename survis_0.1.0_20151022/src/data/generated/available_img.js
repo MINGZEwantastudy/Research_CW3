@@ -1,0 +1,1 @@
+define({ availableImg: ["Dubey2021","Evans2019","He2015","He2017","He2022AIR","He2022Healthcare","He2022Malware","He2023AI","Loft2021","Smith2021"]});
